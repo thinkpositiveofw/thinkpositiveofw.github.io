@@ -603,7 +603,8 @@ blockquote {
 .lazy-bg {
   background-image: none !important;
 }
-.lazy-placeholder:not(section) {
+.lazy-placeholder:not(section),
+.lazy-none {
   display: block;
   position: relative;
   padding-bottom: 56.25%;
@@ -1461,70 +1462,6 @@ section.lazy-placeholder:after {
   .cid-rGcIQCzP9s .card {
     margin-bottom: 2rem;
   }
-}
-.cid-rG73p4wfBy {
-  padding-top: 225px;
-  padding-bottom: 225px;
-  background-image: url("../../../assets/images/maldivas-960x512.jpg");
-}
-.cid-rG73p4wfBy .form-group {
-  text-align: left;
-  min-height: 0px;
-  border: 0px solid #CCC;
-  border-radius: 5px;
-}
-.cid-rG73p4wfBy .jq-selectbox li.selected {
-  background-color: #3b5abb;
-}
-.cid-rG73p4wfBy .jq-selectbox li:hover {
-  background-color: #3b5abb;
-}
-.cid-rG73p4wfBy .jq-selectbox:hover .jq-selectbox__trigger-arrow {
-  border-top-color: #3b5abb;
-}
-.cid-rG73p4wfBy .form-control {
-  padding: 0;
-}
-.cid-rG73p4wfBy .form-control[name="message"] {
-  padding: 20px 25px;
-}
-.cid-rG73p4wfBy .form-control[name="message"]:focus {
-  outline: none;
-  box-shadow: 0;
-}
-.cid-rG73p4wfBy .form-control[name="message"]:active {
-  outline: none;
-  box-shadow: 0;
-}
-.cid-rG73p4wfBy .mbr-iconfont-btn {
-  margin: 0;
-}
-.cid-rG73p4wfBy .jq-selectbox__dropdown {
-  top: 65px!important;
-}
-.cid-rG73p4wfBy .jq-selectbox__dropdown li {
-  background-color: #fff;
-}
-.cid-rG73p4wfBy .input-group-btn .btn {
-  margin: 0;
-  padding: 1.1rem 20px;
-  border-radius: 5px;
-}
-@media (max-width: 991px) {
-  .cid-rG73p4wfBy .align-left {
-    text-align: center;
-  }
-  .cid-rG73p4wfBy .form-group {
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 576px) {
-  .cid-rG73p4wfBy .input-group-btn {
-    margin: auto;
-  }
-}
-.cid-rG73p4wfBy LABEL {
-  color: #ffffff;
 }
 .cid-rG6X75ksYL {
   padding-top: 30px;
