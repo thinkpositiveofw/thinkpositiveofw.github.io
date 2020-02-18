@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "OFW think Positive",
-    "currentPage": "filinvest.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "agencym4",
       "title": "AgencyM4",
@@ -72,7 +72,7 @@
         "meta_descr": "Think positive OFW help you build your dream to become free and rich",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": " <meta name=\"keywords\" content=\"investment, ofw, think positive ofw, ofw think positive, investment property, ofw investment, pinoy abroad, kabayan, balik mayaman action program, making money machine\">\n  <meta name=\"author\" content=\"Chok Rivera\">"
+        "html_before": " <meta name=\"keywords\" content=\"investment, ofw, think positive ofw, ofw think positive, investment property, ofw investment, pinoy abroad, kabayan, balik mayaman action program, making money machine, pinoy making money machine\">\n  <meta name=\"author\" content=\"Chok Rivera\">"
       },
       "components": [
         {
